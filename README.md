@@ -23,11 +23,14 @@ In the notebook, you can visualize the loss function, the network schema and the
 The following images show and example of the comparison between real and fake data analysing regarding their cumulative sums, their distributions and their correlation matrixes.
 These visualizations have been generated with TableEvaluator library. 
 
-### Cumulative sums
+**Cumulative sums**
+
 ![image](https://user-images.githubusercontent.com/11335468/202753288-f4cc0abe-b78e-4d10-9718-dd20c69c4d01.png)
 
-### Variables distributions
+**Variables distributions**
+
 ![image](https://user-images.githubusercontent.com/11335468/202753316-f3942b7d-3b25-4369-9312-f0f2a47798fa.png)
 
-### Correlation matrixes
+**Correlation matrixes**
+
 ![image](https://user-images.githubusercontent.com/11335468/202753346-83d2bc23-ee98-44b9-bc9d-0d83da55ca00.png)
