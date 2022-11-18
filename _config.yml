@@ -1,1 +1,4 @@
-theme: cayman
+title: FAKE YOUR DATA
+description: Fake Your Data synthesizes your data using Deep Learning.
+show_downloads: true
+theme: jekyll-theme-cayman
