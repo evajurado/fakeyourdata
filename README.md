@@ -39,5 +39,7 @@ These visualizations have been generated with TableEvaluator library.
 Some ideas are:
 - Acommodating the tool to sinthesize relational data for data analytics scenarios
 - Creating a User Interface to ease its consumption
+- Extending data types available including dates, from now on, you can synthesize numeric and categorical values
+- Expanding input datasources available, from now on, it is only configured to input csv files 
 
 Collaboration is always welcome !
