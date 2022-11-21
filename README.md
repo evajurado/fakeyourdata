@@ -34,3 +34,10 @@ These visualizations have been generated with TableEvaluator library.
 **Correlation matrixes**
 
 ![image](https://user-images.githubusercontent.com/11335468/202753346-83d2bc23-ee98-44b9-bc9d-0d83da55ca00.png)
+
+## Next steps
+Some ideas are:
+- Acommodating the tool to sinthesize relational data for data analytics scenarios
+- Creating a User Interface to ease its consumption
+
+Collaboration is always welcome !
